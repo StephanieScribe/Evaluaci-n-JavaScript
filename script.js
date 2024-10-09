@@ -15,5 +15,5 @@ console.log(mensaje);
     console.log("Stephanie ¡no estudiaste! Reprobarás la materia 🎃")
     } */
 
-if (estudiaste >= true) {alert ("Stephanie, ¡sí estudiaste! Aprobarás la materia")}
-else {alert ("Stephanie ¡no estudiaste! Reprobarás la materia")}
+if (estudiaste >= true) {alert (nombre + "¡Sí estudiaste! Aprobarás la materia")}
+else {alert (nombre + "¡No estudiaste! Reprobarás la materia")}
